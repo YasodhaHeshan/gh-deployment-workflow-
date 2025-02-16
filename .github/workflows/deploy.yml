@@ -29,5 +29,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./
-          # Ensure the branch is set to gh-pages
-          publish_branch: gh-pages
+          # Change the branch to main
+          publish_branch: main
