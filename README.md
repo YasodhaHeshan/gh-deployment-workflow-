@@ -12,3 +12,9 @@ This project demonstrates how to use GitHub Actions to deploy a simple HTML webs
 Every push to the `main` branch that changes the `index.html` file will trigger the workflow to run and deploy the website to GitHub Pages.
 
 The website will be accessible at the GitHub Pages URL for the repository: `https://<username>.github.io/gh-deployment-workflow/`.
+
+
+## Project Repository
+
+You can find more project details at:
+[https://roadmap.sh/projects/github-actions-deployment-workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
